@@ -1,1 +1,1 @@
-🌊 This repo contains source code for a small backend environment I built using HardHat, Solidity, and JS. Users are able to deploy a smart contract for an NFT on the Rinkeby blockchain (ETH). Results are viewable on OpenSea Testnet. 🌊
+This repo contains source code for a small backend environment I built using HardHat, Solidity, and JS. Users are able to deploy a smart contract for an NFT on the Rinkeby blockchain (ETH). Results are viewable on OpenSea Testnet. 🌊
